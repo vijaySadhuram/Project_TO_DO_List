@@ -38,4 +38,60 @@ input,textarea,button{
     border: 1px solid rgb(0, 0, 0,0.2);
     font: 1.1rem sans-serif;
     border-radius: 5px;
+    margin: 10px;
+    
+
+}
+button{
+    background-color: rgb(117, 113, 113);
+    color: white;
+    transition: all 0.5s;
+    cursor: pointer;
+
+    
+}
+button:hover{
+    background-color: blueviolet;
+    
+}
+.task{
+    /* border: 2px solid gray; */
+    background-color: rgb(221, 232, 240);
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font:  1.1rem sans-serif;
+    margin: 2vmax;
+
+    /* width: 100%; */
+    
+}
+/* *{
+    border: 2px solid beige;
+} */
+.task span{
+    color: rgb(0, 0, 0,0.623);
+  
+}
+.task>div{
+    width: 100%;
+}
+#deleteBtn{
+    /* border: 2px solid rgb(74, 77, 74); */
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    outline: none;
+    background-color: rgb(238, 62, 62);
+    display: flex;
+    align-items: center;
+}
+.subtask{
+    width: 100%;
+    /* border: 2px solid crimson; */
+}
+
+#header{
+    text-align: center;
 }
