@@ -1,4 +1,4 @@
-# TO DO List Project [LIVE](https://github.com/vijaySadhuram/Project_TO_DO_List.git)
+# TO DO List Project [LIVE](https://vijaysadhuram.github.io/Project_TO_DO_List/)
 Design responsive TO DO List web site using HTML,CSS and JavaScript(Local Storage, DOM Concepts are used).
 
 Execute index.html file for output.
